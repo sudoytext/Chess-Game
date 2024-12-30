@@ -1,0 +1,14 @@
+chess-game/
+├── __init__.py        # Make chess-game directory a module
+│
+├── README.md          # Project documentation
+├── requirements.txt   # Required libraries
+├── main.py            # Main driver
+├── game/              # Directory for game logic
+│   ├── __init__.py    # Make game directory a module
+│   ├── board.py       # Chess board management
+│   ├── player.py      # Player input handling
+│   └── engine.py      # Chess engine integration
+│
+└── assets/            # Images, UIs, etc. (optional for GUI or further assets)
+

@@ -4,7 +4,7 @@
 A simple, modular chess game project built using Python. The game supports human vs AI gameplay and is structured across multiple files.
 
 ## ATTENTION 
-this game is very poorly it ment to be a practice project for everyone to use!
+this game is very poorly coded it ment to be a practice project for everyone to use!
 
 ## Prerequisites
 - Python 3.x
